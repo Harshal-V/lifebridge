@@ -1,0 +1,11 @@
+{
+  "name": "LifeBridge - National Clinical Intake Portal",
+  "description": "LifeBridge - Compassionate patient case-taking and clinical intake system for Indian healthcare centers with prominent accessibility, multilingual support, and doctor decision workflow.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
